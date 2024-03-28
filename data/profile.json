@@ -9,31 +9,27 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/html5.svg"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/css3.svg"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
       },
       {
         "name": "Bootstrap",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/boostrap.svg"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
       },
       {
         "name": "Javacript",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/js.svg"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
       },
       {
         "name": "GIT",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/git.svg"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/DoughFernandes/Portfolio/main/assets/icons/github-skill.svg"
-      },
-      {
-        "name": "VsCode",
-        "logo": "./data/imgs/icons/vscode.png"
+        "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
       }
     ],
 
@@ -52,44 +48,120 @@
   "portfolio": [
     {
       "name": "Pokedex",
+      "info": "Informacões do Pokemons",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/pokedex",
       "imagem": "./data/imgs/content/Pokedex.gif",
-      "description": "Criar uma plataforma interativa para os fãs do Pokemon explorarem um pouco sobre."
+      "description": [
+        "plataforma interativa e animações",
+        "Mais de 400 cards de pokemons",
+        "Informacões: Types, name, ID e suas cores nativas"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+      ]
     },
     {
       "name": "Spotify",
+      "info": "Replica da página principal",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Spotify",
       "imagem": "./data/imgs/content/Spotify.gif",
-      "description": "Uma cópia da página principal do spotify"
+      "description": [
+        "Imagens e logo semelhantes do site",
+        "Animações automatizadas da tela"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+      ]
     },
     {
       "name": "Matar mosquito",
+      "info": "Jogo de matar mosquitos",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
       "imagem": "./data/imgs/content/MataMosquito.gif",
-      "description": "Um jogo simples e demostrativa visual, interação entre páginas e objetos na tela."
+      "description": [
+        "Escolha de níveis dos mosquitos",
+        "Animações automatizadas dos mosquitos (Aparição randomizada na tela)",
+        "pàgina de finalização alternadas conforme resultado do jogo",
+        "Temporizador e vidas"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+      ]
     },
     {
       "name": "Despesa",
+      "info": "Controle das despesas dinamicamente",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
       "imagem": "./data/imgs/content/despesa.gif",
-      "description": "Um projeto de despesa, pode adicionar novas despesas remover e verificar histórico"
+      "description": [
+        "Adicionar e remover despesas",
+        "Filtro de pesquisa para melhorar análise das despesas",
+        "Monitoramento de cadastro das despesas"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+      ]
     },{
       "name": "Multiverso Spider-Man",
+      "info": "Sinopse do multiverso Sipder",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/MultiversoSpider",
       "imagem": "./data/imgs/content/Spider-Man-multiverso.gif",
-      "description": "Páginas e filmes do multiverso do amigo da comunidade."
+      "description": [
+        "Todos os filmes do Spider-Man com imagens",
+        "Sinopse do multiverso Sipder_man",
+        "Trailer, ator do Spider_man e diretor do filme",
+        "Cards animados e interações"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+      ]
     }
   ],
   "professionalExperience": [
     {
       "name": "Auxiliar de Produção / Nipo center",
       "period": "2019 - 2023",
-      "description": "Atendimento e auxílio ao cliente - recebimento, conferência e armazenamento de mercadoria - cadastro e armazenamento no sistema"
+      "description": "Atendimento e auxílio ao cliente - recebimento, conferência e armazenamento de mercadoria - cadastro e armazenamento no sistema",
+      "skills": [
+        "Organização",
+        "Agilidade",
+        "Atendimento e orientação ao cliente",
+        "Liderança e determinação",
+        "Cadastro e verificação de pedidos"
+      ]
     },
     {
       "name": "Vendedor de calçados / Wishoes",
       "period": "2017 - 2018",
-      "description": "Atendimento e auxílio ao cliente - Organização de mercadorias."
+      "description": "Atendimento e auxílio ao cliente - Organização de mercadorias.",
+      "skills": [
+        "Organização de estoque",
+        "Agilidade",
+        "Atendimento e orientação ao cliente"
+      ]
     }
   ],
   "Education": [
