@@ -59,11 +59,26 @@
         "Informacões: Types, name, ID e suas cores nativas"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     },
     {
@@ -76,12 +91,30 @@
         "Animações automatizadas da tela"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     },
     {
@@ -96,12 +129,30 @@
         "Temporizador e vidas"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     },
     {
@@ -115,12 +166,30 @@
         "Monitoramento de cadastro das despesas"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     },
     {
@@ -135,11 +204,26 @@
         "Cards animados e interações"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     },
     {
@@ -152,11 +236,30 @@
         "Página profissional de finança"
       ],
       "tools": [
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+        },
+        {
+          "name": "Javacript",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+        },
+        {
+          "name": "GIT",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+        }
       ]
     }
   ],
