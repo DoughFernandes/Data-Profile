@@ -51,8 +51,8 @@
     {
       "name": "Pokedex",
       "info": "Informacões do Pokemons",
-      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Pokedex.gif",
-      "imagem": "./data/imgs/content/Pokedex.gif",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/pokedex",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Pokedex.gif",
       "description": [
         "plataforma interativa e animações",
         "Mais de 400 cards de pokemons",
@@ -69,8 +69,8 @@
     {
       "name": "Spotify",
       "info": "Replica da página principal",
-      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Spotify",
-      "imagem": "./data/imgs/content/Spotify.gif",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Spotify",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spotify.gif",
       "description": [
         "Imagens e logo semelhantes do site",
         "Animações automatizadas da tela"
@@ -87,8 +87,8 @@
     {
       "name": "Matar mosquito",
       "info": "Jogo de matar mosquitos",
-      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/JogoMataMosquito",
-      "imagem": "./data/imgs/content/MataMosquito.gif",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/MataMosquito.gif",
       "description": [
         "Escolha de níveis dos mosquitos",
         "Animações automatizadas dos mosquitos (Aparição randomizada na tela)",
@@ -107,8 +107,8 @@
     {
       "name": "Despesa",
       "info": "Controle das despesas dinamicamente",
-      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Despesas",
-      "imagem": "./data/imgs/content/despesa.gif",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/despesa.gif",
       "description": [
         "Adicionar e remover despesas",
         "Filtro de pesquisa para melhorar análise das despesas",
@@ -122,16 +122,34 @@
         "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA",
         "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
       ]
-    },{
+    },
+    {
       "name": "Multiverso Spider-Man",
       "info": "Sinopse do multiverso Sipder",
-      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/MultiversoSpider",
-      "imagem": "./data/imgs/content/Spider-Man-multiverso.gif",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/MultiversoSpider",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spider-Man-multiverso.gif",
       "description": [
         "Todos os filmes do Spider-Man com imagens",
         "Sinopse do multiverso Sipder_man",
         "Trailer, ator do Spider_man e diretor do filme",
         "Cards animados e interações"
+      ],
+      "tools": [
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+        "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+      ]
+    },
+    {
+      "name": "Finans",
+      "info": "Site de Finans",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Finans",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/finans.gif",
+      "description": [
+        "Página responsiva de um site de finança",
+        "Página profissional de finança"
       ],
       "tools": [
         "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
