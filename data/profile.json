@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Matar mosquito",
+      "name": "Mata mosquito",
       "info": "Jogo de matar mosquitos",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/MataMosquito.gif",
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Despesa",
+      "name": "Despesas",
       "info": "Controle das despesas dinamicamente",
       "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/despesa.gif",
