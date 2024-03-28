@@ -51,7 +51,7 @@
     {
       "name": "Pokedex",
       "info": "Informacões do Pokemons",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/pokedex",
+      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Pokedex.gif",
       "imagem": "./data/imgs/content/Pokedex.gif",
       "description": [
         "plataforma interativa e animações",
@@ -69,7 +69,7 @@
     {
       "name": "Spotify",
       "info": "Replica da página principal",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Spotify",
+      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Spotify",
       "imagem": "./data/imgs/content/Spotify.gif",
       "description": [
         "Imagens e logo semelhantes do site",
@@ -87,7 +87,7 @@
     {
       "name": "Matar mosquito",
       "info": "Jogo de matar mosquitos",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
+      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/JogoMataMosquito",
       "imagem": "./data/imgs/content/MataMosquito.gif",
       "description": [
         "Escolha de níveis dos mosquitos",
@@ -107,7 +107,7 @@
     {
       "name": "Despesa",
       "info": "Controle das despesas dinamicamente",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
+      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/Despesas",
       "imagem": "./data/imgs/content/despesa.gif",
       "description": [
         "Adicionar e remover despesas",
@@ -125,7 +125,7 @@
     },{
       "name": "Multiverso Spider-Man",
       "info": "Sinopse do multiverso Sipder",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/MultiversoSpider",
+      "url": "https://github.com/DoughFernandes/Data-Profile/blob/main/data/imgs/content/MultiversoSpider",
       "imagem": "./data/imgs/content/Spider-Man-multiverso.gif",
       "description": [
         "Todos os filmes do Spider-Man com imagens",
