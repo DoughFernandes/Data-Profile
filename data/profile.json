@@ -7,6 +7,7 @@
   "email": "dfdsf1996@gmail.com",
   "github": "https://github.com/DoughFernandes",
   "linkedin": "https://linkedin.com/in/dough-fernandes",
+  "its-Me": "Douglas Fernandes. Sou um desenvolvedor Front-End apaixonado e dedicado, especializado na criação de interfaces de usuário interativas e eficientes. Com um forte entendimento de JavaScript, CSS3 e HTML5 e outras tecnologias, estou sempre buscando novas tecnologias e abordagens para melhorar a experiência do usuário.",
   "skills": {
     "hardSkills": [
       {
@@ -292,7 +293,60 @@
       "plataform": "Digital innovation one",
       "name": "Desenvolvedor de software | Fronte-End",
       "period": "2023 - Em progresso ...",
-      "description": "HTML5, CSS3, JavaScript, Git, GitHub",
+      "description":[
+        {
+          "name": "HTML5",
+          "details": [
+            "Semântica Clara e Legível",
+            "Acessibilidade Aprimorada",
+            "Manutenção Simplificada",
+            "SEO Aprimorado"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "details": [
+            "Seletores eficientes",
+            "Unidades relativas",
+            "Dont Repeat Yourself (DRY)",
+            "Manipulação de Strings"
+          ]
+        },
+        {
+          "name": "Javacript",
+          "details": [
+            "Manipulação do DOM (Document Object Model)",
+            "Condicionais e Loops",
+            "Manipulação de Arrays",
+            "Programação Orientada a Objetos",
+            "Variáveis e Tipos de Dados",
+            "Estruturas de Controle",
+            "Tratamento de Erros e Exceções",
+            "APIs (Application Programming Interfaces) "
+          ]
+        },
+        {
+          "name": "GitHub",
+          "details": [
+            "Issues",
+            "Branches",
+            "Pull request",
+            "Commits",
+            "Permissions",
+            "Merge"
+          ]
+        },
+        {
+          "name": "Git",
+          "details": [
+            "remote",
+            "git pull",
+            "git push",
+            "git commits",
+            "git Merge"
+          ]
+        }
+      ],
       "url": "https://www.dio.me/users/dfdsf1996"
     },
     {
