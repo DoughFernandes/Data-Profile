@@ -294,7 +294,7 @@
       "name": "Desenvolvedor de software | Fronte-End",
       "period": "2023 - Em progresso ...",
       "url": "https://www.dio.me/users/dfdsf1996",
-      "description":[
+      "description": [
         {
           "name": "HTML5",
           "details": [
@@ -353,8 +353,76 @@
       "plataform": "Udemy",
       "name": "Desenvolvedor de software | Full stack",
       "period": "2023 - Em progresso ...",
-      "description": " HTML5, CSS3, BootStrap 4, Java Script, PHP, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais! ",
-      "url": "https://github.com/DoughFernandes/MeusProjetos"
+      "url": "https://github.com/DoughFernandes/MeusProjetos",
+      "description": [
+        {
+          "name": "HTML5",
+          "details": [
+            "Semântica Clara e Legível",
+            "Acessibilidade Aprimorada",
+            "Manutenção Simplificada",
+            "SEO Aprimorado"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "details": [
+            "Seletores eficientes",
+            "Unidades relativas",
+            "Dont Repeat Yourself (DRY)",
+            "animation"
+          ]
+        },
+        {
+          "name": "Javacript",
+          "details": [
+            "Manipulação do DOM (Document Object Model)",
+            "Condicionais e Loops",
+            "Manipulação de Arrays",
+            "Programação Orientada a Objetos",
+            "Variáveis e Tipos de Dados",
+            "Estruturas de Controle",
+            "Tratamento de Erros e Exceções",
+            "APIs (Application Programming Interfaces) "
+          ]
+        },
+        {
+          "name": "Banco de Dados MySQL",
+          "details": [
+            "Insert",
+            "Update",
+            "Select",
+            "Delete",
+            "Filtros",
+            "Operadores de comparação e lógicos",
+            "Relacionamentos",
+            "Inner join, left join, right join"
+          ]
+        },
+        {
+          "name": "jQuery",
+          "details": [
+            "Elecionando e manipulando elementos HTML",
+            "Navegando entre elementos",
+            "Manipulando CSS",
+            "Eventos de teclado, mouse e formulário",
+            "Animações"
+          ]
+        },
+        {
+          "name": "API com framework Slim",
+          "details": [
+            "Requisições",
+            "Rotas",
+            "Dependências",
+            "Middleware",
+            "Respostas",
+            "Banco de dados",
+            "Criando API"
+          ]
+        }
+        
+      ]
     }
   ]
 }
