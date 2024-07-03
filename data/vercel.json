@@ -7,7 +7,7 @@
   "email": "dfdsf1996@gmail.com",
   "github": "https://github.com/DoughFernandes",
   "linkedin": "https://linkedin.com/in/dough-fernandes",
-  "itsMe": "Eu sou Douglas Fernandes, 27 anos, sou um profissional multifacetado com uma paixão por tecnologia e criatividade. Como desenvolvedor front-end, eu tenho uma habilidade notável para criar interfaces de usuário elegantes e funcionais, garantindo uma experiência digital fluida e atraente. Além disso, sou um editor de vídeo talentoso, capaz de transformar gravações brutas em histórias visuais cativantes. Tenho um olhar de designer que é evidente em cada projeto, sempre buscando a harmonia perfeita entre estética e usabilidade. Nos momentos de lazer eu adoro me entrega ao mundo dos video games, onde encontra inspiração e diversão. A combinação de minhas habilidades técnicas com minha paixão por design e jogos faz de mim um profissional único e inovador no campo do desenvolvimento.",
+  "itsMe": "Douglas Fernandes. Sou um desenvolvedor Front-End apaixonado e dedicado, especializado na criação de interfaces de usuário interativas e eficientes. Com um forte entendimento de JavaScript, CSS3 e HTML5 e outras tecnologias, estou sempre buscando novas tecnologias e abordagens para melhorar a experiência do usuário.",
   "skills": {
     "hardSkills": [
       {
@@ -230,7 +230,7 @@
     {
       "name": "Finans",
       "info": "Site de Finans",
-      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/finans",
+      "url": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Finans",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/finans.gif",
       "description": [
         "Página responsiva de um site de finança",
@@ -284,31 +284,7 @@
       "skills": [
         "Organização de estoque",
         "Agilidade",
-        "Atendimento e orientação ao cliente",
-        "Reposição de mercadorias"
-      ]
-    },
-    {
-      "name": "Vendedor de chocolate / Cacau Show ",
-      "period": "2016 - 2017",
-      "description": "Atendimento e auxílio ao cliente - Organização de mercadorias.",
-      "skills": [
-        "Organização de estoque",
-        "Agilidade",
-        "Atendimento e orientação ao cliente",
-        "Reposição de mercadorias"
-      ]
-    },
-    {
-      "name": "Ajudante geral / Grupo AA",
-      "period": "2014 - 2016",
-      "description": "Organização de estoque - Recebimento e armazenamento de mercadoria",
-      "skills": [
-        "Organização de estoque",
-        "Agilidade",
-        "Conferência de mercadorias e armazenamento",
-        "Axiliar de entregas",
-        "Auxiliar de montador de móveis"
+        "Atendimento e orientação ao cliente"
       ]
     }
   ],
@@ -445,34 +421,6 @@
             "Criando API"
           ]
         }
-      ]
-    },
-    {
-      "plataform": "Udemy",
-      "name": "Marketing Digital",
-      "period": "2022 - 2023",
-      "url": "https://www.udemy.com/certificate/UC-59e20d27-264f-4812-b262-b43095505fcf/",
-      "description": [
-        
-        {
-          "name": "Marketing Digital",
-          "details": [
-            "Introdução ao Marketing Digital.",
-            "Instagram Ads Fundamenta",
-            "Facebook for Business e Instagram",
-            "Google Ads Fundamental",
-            "Google Ads Rede de Pesquisa",
-            "Google Ads Rede de Display",
-            "Google Ads Vídeo",
-            "Google Ads Promoção de App",
-            "Google Ads Remarketing",
-            "SEO - Seu site no topo do Google",
-            "Email Marketing.",
-            "LinkedIn Ads.",
-            "Google Analytics"
-          ]
-        }
-        
         
       ]
     }
