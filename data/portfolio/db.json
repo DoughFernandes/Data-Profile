@@ -1,0 +1,117 @@
+{
+    "nome": "Douglas Fernandes",
+    "foto": "https://avatars.githubusercontent.com/u/94845747?v=4",
+    "emprego": "Desenvolvedor Front-End",
+    "localizacao": "São Paulo, SP",
+    "contato": {
+      "email": "doug@example.com",
+      "telefone": "+55 11 91234-5678"
+    },
+    "github": "https://github.com/DouglasFernandes",
+    "linkedin": "https://www.linkedin.com/in/douglas-fernandes/",
+    "descricao": "Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e interativas. Possuo habilidades em HTML5, CSS3, JavaScript, e frameworks como Bootstrap. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.",
+    "habilidades_tecnicas": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "JavaScript",
+      "Git",
+      "GitHub"
+    ],
+    "habilidades_interpessoais": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Solução de problemas",
+      "Gestão de tempo"
+    ],
+    "idiomas": {
+      "portugues": "Nativo",
+      "ingles": "Intermediário"
+    },
+    "portfolio": [
+      {
+        "titulo": "Pokédex Interativa",
+        "descricao": "Uma aplicação web interativa que permite aos usuários buscar e visualizar informações sobre diferentes Pokémons.",
+        "link": "https://github.com/DouglasFernandes/Pokedex"
+      },
+      {
+        "titulo": "Réplica da Página Principal do Spotify",
+        "descricao": "Um clone da página principal do Spotify, utilizando HTML, CSS e JavaScript.",
+        "link": "https://github.com/DouglasFernandes/Spotify-Clone"
+      },
+      {
+        "titulo": "Jogo de Matar Mosquitos",
+        "descricao": "Um jogo simples e divertido de matar mosquitos, desenvolvido com JavaScript.",
+        "link": "https://github.com/DouglasFernandes/Mosquito-Game"
+      },
+      {
+        "titulo": "Site de Controle de Despesas",
+        "descricao": "Um site que permite aos usuários gerenciar suas finanças pessoais, registrando e categorizando despesas.",
+        "link": "https://github.com/DouglasFernandes/Expense-Tracker"
+      },
+      {
+        "titulo": "Site do Multiverso Spider-Man",
+        "descricao": "Um site que explora o multiverso do Spider-Man, com informações sobre diferentes versões do herói.",
+        "link": "https://github.com/DouglasFernandes/Spider-Man-Multiverse"
+      },
+      {
+        "titulo": "Site de Finanças",
+        "descricao": "Um site dedicado a fornecer informações e dicas sobre finanças pessoais.",
+        "link": "https://github.com/DouglasFernandes/Finance-Website"
+      }
+    ],
+    "experiencia_profissional": [
+      {
+        "cargo": "Desenvolvedor Front-End",
+        "empresa": "Tech Solutions",
+        "periodo": "Jan 2022 - Presente",
+        "descricao": "Responsável pelo desenvolvimento e manutenção de interfaces web, garantindo uma experiência de usuário fluida e responsiva."
+      },
+      {
+        "cargo": "Auxiliar de Produção",
+        "empresa": "Indústria XYZ",
+        "periodo": "Mar 2019 - Dez 2021",
+        "descricao": "Auxiliava na linha de produção, garantindo a qualidade e eficiência dos processos produtivos."
+      },
+      {
+        "cargo": "Vendedor de Calçados",
+        "empresa": "Loja de Calçados ABC",
+        "periodo": "Jan 2017 - Fev 2019",
+        "descricao": "Atendimento ao cliente, organização do estoque e controle de vendas."
+      },
+      {
+        "cargo": "Vendedor de Chocolates",
+        "empresa": "Chocolates Delícia",
+        "periodo": "Jan 2015 - Dez 2016",
+        "descricao": "Responsável pelo atendimento ao cliente e vendas de chocolates finos."
+      },
+      {
+        "cargo": "Ajudante Geral",
+        "empresa": "Empresa de Serviços Gerais",
+        "periodo": "Jan 2013 - Dez 2014",
+        "descricao": "Realizava diversas tarefas de apoio operacional, contribuindo para a eficiência das operações diárias."
+      }
+    ],
+    "educacao": [
+      {
+        "instituicao": "Digital Innovation One",
+        "curso": "Desenvolvimento de Software",
+        "periodo": "2022 - Presente",
+        "descricao": "Estudos focados em desenvolvimento web e mobile, utilizando tecnologias modernas."
+      },
+      {
+        "instituicao": "Udemy",
+        "curso": "Desenvolvimento Web",
+        "periodo": "2021 - 2022",
+        "descricao": "Cursos variados sobre HTML, CSS, JavaScript e frameworks."
+      },
+      {
+        "instituicao": "Udemy",
+        "curso": "Marketing Digital",
+        "periodo": "2020 - 2021",
+        "descricao": "Estudos sobre estratégias de marketing digital, SEO e gestão de mídias sociais."
+      }
+    ]
+  }
+  
