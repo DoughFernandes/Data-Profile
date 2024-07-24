@@ -1,117 +1,153 @@
 {
-    "nome": "Douglas Fernandes",
-    "foto": "https://avatars.githubusercontent.com/u/94845747?v=4",
-    "emprego": "Desenvolvedor Front-End",
-    "localizacao": "São Paulo, SP",
-    "contato": {
-      "email": "doug@example.com",
-      "telefone": "+55 11 91234-5678"
-    },
-    "github": "https://github.com/DouglasFernandes",
-    "linkedin": "https://www.linkedin.com/in/douglas-fernandes/",
-    "descricao": "Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e interativas. Possuo habilidades em HTML5, CSS3, JavaScript, e frameworks como Bootstrap. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.",
-    "habilidades_tecnicas": {
-      "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
-      "CSS": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
-      "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q",
-      "Javacript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
-      "Git": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-      "GitHub": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
-    },
-    "habilidades_interpessoais": [
-      "Comunicação",
-      "Trabalho em equipe",
-      "Criatividade",
-      "Solução de problemas",
-      "Gestão de tempo"
-    ],
-    "idiomas": {
-      "portugues": "Nativo",
-      "ingles": "Intermediário"
-    },
-    "portfolio": [
-      {
-        "titulo": "Pokédex Interativa",
-        "descricao": "Uma aplicação web interativa que permite aos usuários buscar e visualizar informações sobre diferentes Pokémons.",
-        "link": "https://github.com/DouglasFernandes/Pokedex"
-      },
-      {
-        "titulo": "Réplica da Página Principal do Spotify",
-        "descricao": "Um clone da página principal do Spotify, utilizando HTML, CSS e JavaScript.",
-        "link": "https://github.com/DouglasFernandes/Spotify-Clone"
-      },
-      {
-        "titulo": "Jogo de Matar Mosquitos",
-        "descricao": "Um jogo simples e divertido de matar mosquitos, desenvolvido com JavaScript.",
-        "link": "https://github.com/DouglasFernandes/Mosquito-Game"
-      },
-      {
-        "titulo": "Site de Controle de Despesas",
-        "descricao": "Um site que permite aos usuários gerenciar suas finanças pessoais, registrando e categorizando despesas.",
-        "link": "https://github.com/DouglasFernandes/Expense-Tracker"
-      },
-      {
-        "titulo": "Site do Multiverso Spider-Man",
-        "descricao": "Um site que explora o multiverso do Spider-Man, com informações sobre diferentes versões do herói.",
-        "link": "https://github.com/DouglasFernandes/Spider-Man-Multiverse"
-      },
-      {
-        "titulo": "Site de Finanças",
-        "descricao": "Um site dedicado a fornecer informações e dicas sobre finanças pessoais.",
-        "link": "https://github.com/DouglasFernandes/Finance-Website"
+  "nome": "Douglas Fernandes",
+  "foto": "https://avatars.githubusercontent.com/u/152017678?s=400&u=38556ff5770390e89a61427ce829afcc035e1dc1&v=4",
+  "emprego": "Desenvolvedor Front-End",
+  "localizacao": "São Paulo, SP",
+  "contato": {
+    "email": "dfdsf1996@gmail.com",
+    "telefone": "(11) 95582-4702"
+  },
+  "github": "https://github.com/DouglasFernandes",
+  "linkedin": "https://www.linkedin.com/in/douglas-fernandes/",
+  "descricao": "Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e interativas. Possuo habilidades em HTML5, CSS3, JavaScript, além de frameworks e bibliotecas como Bootstrap, React, Next.js, Styled-components, Framer Motion e muito mais. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.",
+  "habilidades_tecnicas": {
+    "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+    "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+    "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q",
+    "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+    "Git": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/git.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+    "GitHub": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/github-skill.svg?token=GHSAT0AAAAAACPOAB2IE6BQUZVURATBBKIMZQFR6ZA"
+  },
+  "habilidades_interpessoais": [
+    "Comunicação",
+    "Trabalho em equipe",
+    "Criatividade",
+    "Solução de problemas",
+    "Gestão de tempo"
+  ],
+  "idiomas": {
+    "portugues": "Nativo",
+    "ingles": "Intermediário"
+  },
+  "portfolio": [
+    {
+      "titulo": "Pokédex Interativa",
+      "descricao": "Uma aplicação web interativa que permite aos usuários buscar e visualizar informações sobre diferentes Pokémons.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/pokedex",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Pokedex.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
       }
-    ],
-    "experiencia_profissional": [
-      {
-        "cargo": "Desenvolvedor Front-End",
-        "empresa": "Tech Solutions",
-        "periodo": "Jan 2022 - Presente",
-        "descricao": "Responsável pelo desenvolvimento e manutenção de interfaces web, garantindo uma experiência de usuário fluida e responsiva."
-      },
-      {
-        "cargo": "Auxiliar de Produção",
-        "empresa": "Indústria XYZ",
-        "periodo": "Mar 2019 - Dez 2021",
-        "descricao": "Auxiliava na linha de produção, garantindo a qualidade e eficiência dos processos produtivos."
-      },
-      {
-        "cargo": "Vendedor de Calçados",
-        "empresa": "Loja de Calçados ABC",
-        "periodo": "Jan 2017 - Fev 2019",
-        "descricao": "Atendimento ao cliente, organização do estoque e controle de vendas."
-      },
-      {
-        "cargo": "Vendedor de Chocolates",
-        "empresa": "Chocolates Delícia",
-        "periodo": "Jan 2015 - Dez 2016",
-        "descricao": "Responsável pelo atendimento ao cliente e vendas de chocolates finos."
-      },
-      {
-        "cargo": "Ajudante Geral",
-        "empresa": "Empresa de Serviços Gerais",
-        "periodo": "Jan 2013 - Dez 2014",
-        "descricao": "Realizava diversas tarefas de apoio operacional, contribuindo para a eficiência das operações diárias."
+    },
+    {
+      "titulo": "Réplica da Página Principal do Spotify",
+      "descricao": "Um clone da página principal do Spotify, utilizando HTML, CSS e JavaScript.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Spotify",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spotify.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
       }
-    ],
-    "educacao": [
-      {
-        "instituicao": "Digital Innovation One",
-        "curso": "Desenvolvimento de Software",
-        "periodo": "2022 - Presente",
-        "descricao": "Estudos focados em desenvolvimento web e mobile, utilizando tecnologias modernas."
-      },
-      {
-        "instituicao": "Udemy",
-        "curso": "Desenvolvimento Web",
-        "periodo": "2021 - 2022",
-        "descricao": "Cursos variados sobre HTML, CSS, JavaScript e frameworks."
-      },
-      {
-        "instituicao": "Udemy",
-        "curso": "Marketing Digital",
-        "periodo": "2020 - 2021",
-        "descricao": "Estudos sobre estratégias de marketing digital, SEO e gestão de mídias sociais."
+    },
+    {
+      "titulo": "Jogo de Matar Mosquitos",
+      "descricao": "Um jogo simples e divertido de matar mosquitos, desenvolvido com JavaScript.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/MataMosquito.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
       }
-    ]
-  }
-  
+    },
+    {
+      "titulo": "Site de Controle de Despesas",
+      "descricao": "Um site que permite aos usuários gerenciar suas finanças pessoais, registrando e categorizando despesas.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/despesa.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+      }
+    },
+    {
+      "titulo": "Site do Multiverso Spider-Man",
+      "descricao": "Um site que explora o multiverso do Spider-Man, com informações sobre diferentes versões do herói.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/MultiversoSpider",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spider-Man-multiverso.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
+      }
+    },
+    {
+      "titulo": "Site de Finanças",
+      "descricao": "Um site dedicado a fornecer informações e dicas sobre finanças pessoais.",
+      "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/finans",
+      "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/finans.gif",
+      "ferramentas": {
+        "HTML5": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/html5.svg?token=GHSAT0AAAAAACPOAB2I55FSBLXYXF372JLYZQFR4WA",
+        "CSS3": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/css3.svg?token=GHSAT0AAAAAACPOAB2JWRO47R3IG26KDYAWZQFR5VQ",
+        "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA",
+        "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/boostrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q"
+      }
+    }
+  ],
+  "experiencia_profissional": [
+    {
+      "cargo": "Auxiliar de Produção",
+      "empresa": "Nipo Center",
+      "periodo": "2019 - 2023",
+      "descricao": "Atendimento e auxílio ao cliente, recebimento, conferência e armazenamento de mercadoria, cadastro e armazenamento no sistema."
+    },
+    {
+      "cargo": "Vendedor de Calçados",
+      "empresa": "Wishoes",
+      "periodo": "2017 - 2018",
+      "descricao": "Atendimento e auxílio ao cliente, organização do estoque e controle de vendas."
+    },
+    {
+      "cargo": "Vendedor de Chocolate",
+      "empresa": "Cacau Show",
+      "periodo": "2016 - 2017",
+      "descricao": "Atendimento ao cliente, organização do estoque e controle de vendas."
+    },
+    {
+      "cargo": "Ajudante Geral",
+      "empresa": "Grupo AA / New Móveis",
+      "periodo": "2014 - 2016",
+      "descricao": "Organização de estoque, recebimento e armazenamento de mercadoria."
+    }
+  ],
+  "educacao": [
+    {
+      "instituicao": "Digital Innovation One",
+      "curso": "Desenvolvimento de Software",
+      "periodo": "2022 - Presente",
+      "descricao": "Estudos focados em desenvolvimento web e mobile, utilizando tecnologias modernas.",
+      "url": "https://www.dio.me/users/dfdsf1996"
+    },
+    {
+      "instituicao": "Udemy",
+      "curso": "Desenvolvimento Web",
+      "periodo": "2023 - Presente",
+      "descricao": "Cursos variados sobre HTML, CSS, JavaScript e frameworks.",
+      "url": "https://github.com/DoughFernandes/MeusProjetos"
+    },
+    {
+      "instituicao": "Udemy",
+      "curso": "Marketing Digital",
+      "periodo": "2022 - 2023",
+      "descricao": "Estudos sobre estratégias de marketing digital, SEO e gestão de mídias sociais.",
+      "url": "https://www.udemy.com/certificate/UC-59e20d27-264f-4812-b262-b43095505fcf/"
+    }
+  ]
+}
