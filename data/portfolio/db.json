@@ -33,6 +33,7 @@
   "portfolio": [
     {
       "titulo": "Pokédex Interativa",
+      "subtitulo": "Pokédex",
       "descricao": "Uma aplicação web interativa que permite aos usuários buscar e visualizar informações sobre diferentes Pokémons.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/pokedex",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Pokedex.gif",
@@ -44,6 +45,7 @@
     },
     {
       "titulo": "Réplica da Página Principal do Spotify",
+      "subtitulo": "Spotify",
       "descricao": "Um clone da página principal do Spotify, utilizando HTML, CSS e JavaScript.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Spotify",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spotify.gif",
@@ -56,6 +58,7 @@
     },
     {
       "titulo": "Jogo de Matar Mosquitos",
+      "subtitulo": "Mata Mosquito",
       "descricao": "Um jogo simples e divertido de matar mosquitos, desenvolvido com JavaScript.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/JogoMataMosquito",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/MataMosquito.gif",
@@ -68,6 +71,7 @@
     },
     {
       "titulo": "Site de Controle de Despesas",
+      "subtitulo": "Despensas",
       "descricao": "Um site que permite aos usuários gerenciar suas finanças pessoais, registrando e categorizando despesas.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/Despesas",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/despesa.gif",
@@ -80,6 +84,7 @@
     },
     {
       "titulo": "Site do Multiverso Spider-Man",
+      "subtitulo": "Spider-Man Multiverso",
       "descricao": "Um site que explora o multiverso do Spider-Man, com informações sobre diferentes versões do herói.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/MultiversoSpider",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/Spider-Man-multiverso.gif",
@@ -91,6 +96,7 @@
     },
     {
       "titulo": "Site de Finanças",
+      "subtitulo": "Finanças",
       "descricao": "Um site dedicado a fornecer informações e dicas sobre finanças pessoais.",
       "link": "https://github.com/DoughFernandes/MeusProjetos/tree/main/finans",
       "imagem": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/photo/finans.gif",
