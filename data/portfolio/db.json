@@ -14,7 +14,7 @@
   "habilidades_tecnicas": {
     "SASS": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/sass.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
 
-    "Next.Js": "",
+    "Next.Js": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/refs/heads/main/data/imgs/icons/next_js.svg",
 
     "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/bootstrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q",
     "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
