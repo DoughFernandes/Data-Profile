@@ -13,7 +13,9 @@
   "descricao": "Me chamo Douglas Fernandes, sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e interativas. Possuo habilidades em HTML5, CSS3, JavaScript, além de frameworks e bibliotecas como Bootstrap, React, Next.js, Styled-components, Framer Motion e muito mais. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.",
   "habilidades_tecnicas": {
     "SASS": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/sass.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
-    "Next.Js": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/next.svg?token=GHSAT0AAAAAACPOAB2JF7RATDAVICD3NO76ZQFR6NQ",
+
+    "Next.Js": "",
+
     "Bootstrap": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/bootstrap.svg?token=GHSAT0AAAAAACPOAB2IEHNWA6EENU2NR2QAZQFR56Q",
     "JavaScript": "https://raw.githubusercontent.com/DoughFernandes/Data-Profile/main/data/imgs/icons/js.svg?token=GHSAT0AAAAAACPOAB2IDR5CIWSOJC65OY5YZQFR6HA"
   },
